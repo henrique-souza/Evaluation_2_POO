@@ -1,6 +1,6 @@
 # Evaluation_2_POO
 
-This project was build using [Netbeans IDE version 12.4](https://netbeans.apache.org/).
+This project was build using [Apache Netbeans IDE version 12.4](https://netbeans.apache.org/).
 
 ## PT - Trabalho de faculdade que foi feito usando programação orientada a objeto. 
 
