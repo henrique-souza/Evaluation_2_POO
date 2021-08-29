@@ -2,7 +2,10 @@
 
 This project was build using [Apache Netbeans IDE version 12.4](https://netbeans.apache.org/).
 
-## PT - Trabalho de faculdade que foi feito usando programação orientada a objeto. 
+### This project was worth 10 points in the matter, I got 9.00 points.
+### Este projeto valia 10 pontos na matéria, consegui 9,00.
+
+## Português - Trabalho de faculdade que foi feito usando programação orientada a objeto. 
 
 Os objetivos eram:
 
@@ -14,7 +17,7 @@ Os objetivos eram:
 6. Tratar exceções e entrada de dados;
 7. Boas práticas de programação Java.
 
-## EN - College work that was done using object-oriented programming.
+## English - College work that was done using object-oriented programming.
 
 The goals were:
 
