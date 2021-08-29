@@ -1,4 +1,4 @@
-# Evaluation_2_POO
+# Second Evaluation of Object-Oriented Programming
 
 This project was build using [Apache Netbeans IDE version 12.4](https://netbeans.apache.org/).
 
