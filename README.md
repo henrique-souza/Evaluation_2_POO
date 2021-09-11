@@ -2,8 +2,8 @@
 
 This project was build using [Apache Netbeans IDE version 12.4](https://netbeans.apache.org/).
 
-### This project was worth 10 points in the matter, I got 9.00 points.
-### Este projeto valia 10 pontos na matéria, consegui 9,00.
+> This project was worth 10 points in the matter, I got 9.00 points.
+> Este projeto valia 10 pontos na matéria, consegui 9,00.
 
 ## Português - Trabalho de faculdade que foi feito usando programação orientada a objeto. 
 
